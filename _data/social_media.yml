@@ -22,7 +22,7 @@ hackerrank:
 angelList:
   name: angelList
   profile_url_prefix: https://angel.co/
-  icon_svg: <svg xmlns="http://www.w3.org/2000/svg" width="21" height="21"  stroke="#000" stroke-linecap="round" stroke-linejoin="round" fill="#fff" fill-rule="evenodd"/>
+  icon_svg: <svg xmlns="http://www.w3.org/2000/svg" width="21" height="21"  stroke="#000" stroke-linecap="round" stroke-linejoin="round" fill="#959da5" fill-rule="evenodd"/>
 
 instagram:
   name: Instagram
