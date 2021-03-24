@@ -56,13 +56,13 @@ social_media:
   # youtube: your_username
 
 topics:
-  - name: Lalotte Ventures
-    web_url: https://lalotteventures.com/
-    image_url: https://user-images.githubusercontent.com/59707388/112226050-0a918980-8c04-11eb-8046-8cb54d2f9aaa.png
+#   - name: Lalotte Ventures
+#     web_url: https://lalotteventures.com/
+#     image_url: https://user-images.githubusercontent.com/59707388/112226050-0a918980-8c04-11eb-8046-8cb54d2f9aaa.png
     
-  - name: McGill
-    web_url: https://www.mcgill.ca/
-    image_url: https://user-images.githubusercontent.com/59707388/112226932-3eb97a00-8c05-11eb-9544-0705f17be428.png
+#   - name: McGill
+#     web_url: https://www.mcgill.ca/
+#     image_url: https://user-images.githubusercontent.com/59707388/112226932-3eb97a00-8c05-11eb-9544-0705f17be428.png
     
     
   - name: Backdoor MTL
