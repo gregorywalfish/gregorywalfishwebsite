@@ -58,8 +58,7 @@ social_media:
 
 topics:
 
-
-- name: Xposure
+  - name: Xposure
     web_url: https://xposure.fm/
     image_url: https://user-images.githubusercontent.com/59707388/119021137-0fa55780-b96d-11eb-852d-31de6e2f5547.png
     
